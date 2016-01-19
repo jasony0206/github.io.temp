@@ -1,0 +1,81 @@
+p {
+	font-size: 1.1em;
+}
+
+.first-row {
+	margin-top: 4em;
+}
+
+.center {
+	margin: 0 auto;	
+}
+
+.carousel-caption {
+	top: 8%;
+    bottom: auto;
+    text-align: left;
+    left: 5%;
+    font-size: 2em;
+    font-family: arial;
+    width: auto;
+}
+
+.carousel-caption h2 {
+	font-size: 1.8em;
+	margin-bottom: 0;
+}
+
+.text-centered {
+	text-align: center;
+}
+
+.section {
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
+
+.section-title {
+	margin-bottom: 1em;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.about-me-icon {
+	width: 8em;	
+}
+
+#about, #projects, #contact {
+	background-color: #f5f5f5;
+}
+
+.experience-logo {
+	width: 6em;
+}
+
+#experience h3 {
+	display: inline;
+}
+
+.experience-entry {
+	margin-top: 4em;
+}
+
+.experience-duration {
+	color: grey;
+}
+
+.framed-pic {
+	margin-right: 1em;
+	margin-bottom: 1em;
+}
+
+.contact-logo {
+	width: 7em;
+}
+
+.modal-footer {
+	margin-top: 0;
+}
